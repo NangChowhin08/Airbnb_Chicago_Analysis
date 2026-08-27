@@ -16,3 +16,8 @@ Also check the analysis dashboard and the prediction web-app [here](https://cola
 
 
 Dataset procured from [http://insideairbnb.com/get-the-data.html](http://insideairbnb.com/get-the-data.html)
+
+
+## Author
+
+Nang Anika Chowhin
