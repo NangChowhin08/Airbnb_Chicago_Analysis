@@ -20,4 +20,5 @@ Dataset procured from [http://insideairbnb.com/get-the-data.html](http://insidea
 
 ## Author
 
-Nang Anika Chowhin
+**Nang Anika Chowhin**
+**Padma Brahma**
